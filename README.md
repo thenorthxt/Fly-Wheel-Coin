@@ -1,6 +1,9 @@
 # Fly-Wheel-Coin
 FlyWheelCoin. A Bitcoin-native flywheel.
 
+<img width="1463" height="427" alt="Capture d’écran 2026-01-15 à 00 17 51" src="https://github.com/user-attachments/assets/bb6006fd-480f-4f02-b9e4-9e6d284ab2db" />
+
+CA : 
 
 What is FlyWheelCoin?
 
